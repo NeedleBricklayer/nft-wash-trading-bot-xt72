@@ -1,4 +1,4 @@
-# 
+# high-frequency nft wash trading bot | wash-trading-execution + slippage-control offers the most advanced nft wash trading bot, with wash-trading-execution and slippage-control.
 
 
 
